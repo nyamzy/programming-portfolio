@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+  color: darkblue;
+}
+h2{
+  text-align: center;
+  color: darkblue;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.me{
+  color: maroon;
+}
+.fork {
+  background-color: lightgreen;
+}
