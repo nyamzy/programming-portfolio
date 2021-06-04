@@ -13,7 +13,11 @@ img {
 }
 .me{
   color: maroon;
+  background-color: pink;
 }
 .fork {
   background-color: lightgreen;
+}
+body {
+  margin: 60px;
 }
