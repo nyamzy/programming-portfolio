@@ -11,9 +11,22 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+body {
+  background-image: url("../img/autumn.jpg");
+}
+.projects {
+  background: pink;
+}
+.header {
+  background: white;
+}
 .me{
   color: maroon;
+  background-color: pink;
 }
 .fork {
   background-color: lightgreen;
+}
+body {
+  margin: 60px;
 }
